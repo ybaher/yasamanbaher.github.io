@@ -1,0 +1,13 @@
+---
+title: "About"
+image: profile.jpg
+about:
+  template: jolla
+  links:
+    - icon: github
+      href: https://github.com
+---
+
+# Voice Samples Identification for Early Parkinson Detection
+
+git
