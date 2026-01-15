@@ -1,6 +1,9 @@
----
-title: "About"
----
+# ABOUT THIS BLOG
 
-# Voice Samples Identification for Early Parkinson Detection
+-----------------
 
+This blog has been created for DSCI 542 - Communication and Argumentation at UBC
+
+Citations:
+
+-   <https://pubmed.ncbi.nlm.nih.gov/37996478/>
