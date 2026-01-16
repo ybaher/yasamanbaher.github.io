@@ -14,9 +14,13 @@ title: "Voice Sample Identification for Early Parkinson Detection"
 > > > >
 > > > > Using the mean of features that describe sound frequencies as the main observable variable, the study analyzed 40 people with Parkinson’s disease and 41 people without the disease. Linear regression performed poorly across all different ways of analyzing sound. Random forest, however, achieved better classification performance, showing that changes and variability in sound provided better discriminative information compared to average values alone. The study’s CNN model, however, performed the best. The model created images of voice sounds to effectively distinguish between people with Parkinson’s disease and healthy individuals, and this image-based approach was able to successfully identify those diagnosed with Parkinson’s disease.
 > > > >
+> > > > ![ Random Forest Model](41598_2023_47568_Fig1_HTML.jpg){fig-align="center" width="360"}
+> > > >
 > > > > # Findings
 > > > >
 > > > > The study was able to show that remotely collected voice recordings via telephone can be reliably used to distinguish between people who are showing early symptoms of Parkinson’s disease and those who are healthy. The CNN model performed significantly better than other traditional machine learning approaches by analyzing spectrogram images of the recordings and accurately classifying them as either healthy individuals or those displaying early symptoms of the disease. This study highlights a non-invasive and low-cost data collection method for early disease detection. Since voice recordings could be collected remotely, this study increases convenience and accessibility for individuals at risk of this disease, especially those living in rural or medically underserved areas. This form of machine learning analysis is especially important, as clinicians may not be able to differentiate subtle changes in voice frequency as effectively as a machine learning model. This demonstrates how data science techniques can support medical professionals by providing additional tools for early screening and monitoring of Parkinson’s disease progression.
+> > > >
+> > > > ![ Spectrogram Images Created by CNN Model](41598_2023_47568_Fig2_HTML.jpg){alt="Spectrogram Images Created by CNN Model" fig-align="center" width="453"}
 > > > >
 > > > > # Addtional Reflection
 > > > >
