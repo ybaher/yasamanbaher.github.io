@@ -1,9 +1,14 @@
 # ABOUT THIS BLOG
 
------------------
+------------------------------------------------------------------------
 
 This blog has been created for DSCI 542 - Communication and Argumentation at UBC
 
 Citations:
 
--   <https://pubmed.ncbi.nlm.nih.gov/37996478/>
+-   c1: <https://pubmed.ncbi.nlm.nih.gov/37996478/>
+    -   Iyer A, Kemp A, Rahmatallah Y, Pillai L, Glover A, Prior F, Larson-Prior L, Virmani T. A machine learning method to process voice samples for identification of Parkinson's disease. Sci Rep. 2023 Nov 23;13(1):20615. doi: 10.1038/s41598-023-47568-w. PMID: 37996478; PMCID: PMC10667335.
+-   c2: <https://www.ncbi.nlm.nih.gov/books/NBK536722/>
+    -   Kouli A, Torsney KM, Kuan WL. Parkinson’s Disease: Etiology, Neuropathology, and Pathogenesis. In: Stoker TB, Greenland JC, editors. Parkinson’s Disease: Pathogenesis and Clinical Aspects \[Internet\]. Brisbane (AU): Codon Publications; 2018 Dec 21. Chapter 1.Available from: https://www.ncbi.nlm.nih.gov/books/NBK536722/doi: 10.15586/codonpublications.parkinsonsdisease.2018.ch1
+-   c3: <https://www.nature.com/articles/s41531-020-0113-5>
+    -   orel, R., Agurto, C., Heisig, S. *et al.* Speech-based characterization of dopamine replacement therapy in people with Parkinson’s disease. *npj Parkinsons Dis.* **6**, 12 (2020). https://doi.org/10.1038/s41531-020-0113-5
